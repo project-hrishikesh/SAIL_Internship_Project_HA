@@ -1,6 +1,6 @@
 # 📜 Internship Documentation
 
-The following documents provide official documentation and supporting material for my
+The below documents provide official documentation and supporting material for my
 internship training program at <br>
 **Steel Authority of India Limited (SAIL), Bokaro Steel Plant (BSL)**.
 
