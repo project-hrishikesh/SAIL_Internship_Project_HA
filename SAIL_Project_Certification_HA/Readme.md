@@ -9,7 +9,7 @@ vocational training at **Steel Authority of India Limited (SAIL), Bokaro Steel P
 
 <p align="center">
   <img 
-    src=".SAIL VT EXPERIENCE LETTER.jpg"
+    src="./Images/SAIL VT EXPERIENCE LETTER.jpg"
     width="850"
     alt="SAIL Bokaro Steel Plant Internship Experience Letter"
   >
@@ -27,7 +27,7 @@ vocational training at **Steel Authority of India Limited (SAIL), Bokaro Steel P
 
 <p align="center">
   <img 
-    src="./Images/HRISHIKESH_ANAND SAIL VT 2025.png"
+    src="./Images/HRISHIKESH_ANAND SAIL VT 2025.jpg"
     width="850"
     alt="Hrishikesh Anand SAIL Vocational Training Project"
   >
