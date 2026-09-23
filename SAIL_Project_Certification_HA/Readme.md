@@ -1,11 +1,12 @@
 # 📜 Internship Documentation
 
 The following documents provide official documentation and supporting material for my
-vocational training at **Steel Authority of India Limited (SAIL), Bokaro Steel Plant (BSL)**.
+internship training program at <br>
+**Steel Authority of India Limited (SAIL), Bokaro Steel Plant (BSL)**.
 
 ---
 
-## 🏭 SAIL / BSL Internship Experience Letter
+# 🏭 SAIL / BSL Internship Performance Letter;
 
 <p align="center">
   <img 
@@ -16,14 +17,14 @@ vocational training at **Steel Authority of India Limited (SAIL), Bokaro Steel P
 </p>
 
 <p align="center">
-  <b>SAIL — Bokaro Steel Plant</b><br>
-  Finance & Accounts Department<br>
+  <b>SAIL — Bokaro Steel Plant (BSL)</b><br>
+  (F&A Dept.) Finance & Accounts Department<br>
   Internship Period: August 04, 2025 – November 04, 2025
 </p>
 
 ---
 
-## 📊 SAIL Vocational Training Project Report
+# 📊 SAIL Internship Training Completion Certificate;
 
 <p align="center">
   <img 
@@ -34,8 +35,8 @@ vocational training at **Steel Authority of India Limited (SAIL), Bokaro Steel P
 </p>
 
 <p align="center">
-  <b>Vocational Training Project</b><br>
-  Finance & Accounts Department — Bokaro Steel Plant<br>
+  <b>Internship Complition Certificate </b><br>
+  (F&A Dept.) Finance & Accounts Department — Bokaro Steel Plant<br>
   Project: <b>Functioning Capital Management</b>
 </p>
 
@@ -45,20 +46,16 @@ vocational training at **Steel Authority of India Limited (SAIL), Bokaro Steel P
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Organization-SAIL-0B3D91?style=for-the-badge&logo=industry&logoColor=white">
-
-<img src="https://img.shields.io/badge/Plant-Bokaro%20Steel%20Plant-1E40AF?style=for-the-badge&logo=industry&logoColor=white">
-
-<img src="https://img.shields.io/badge/Department-Finance%20%26%20Accounts-0F766E?style=for-the-badge&logo=bank&logoColor=white">
+<img src="https://img.shields.io/badge/Organization-SAIL-0D1A63?style=for-the-badge&logo=industry&logoColor=white"> &nbsp; 
+<img src="https://img.shields.io/badge/Plant-Bokaro%20Steel%20Plant-0D1A63?style=for-the-badge&logo=industry&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Department-Finance%20%26%20Accounts-0D1A63?style=for-the-badge&logo=bank&logoColor=white"> &nbsp;
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Duration-3%20Months-7C3AED?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Project-Functioning%20Capital%20Management-2563EB?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Performance-EXCELLENT-15803D?style=for-the-badge">
+<img src="https://img.shields.io/badge/Duration-3%20Months-0D1A63?style=for-the-badge"> &nbsp;
+<img src="https://img.shields.io/badge/Project-Functioning%20Capital%20Management-0D1A63?style=for-the-badge"> &nbsp;
+<img src="https://img.shields.io/badge/Performance-EXCELLENT-0D1A63?style=for-the-badge"> &nbsp;
 
 </p>
